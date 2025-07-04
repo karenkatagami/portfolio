@@ -239,7 +239,7 @@ select::-ms-expand {
 
 .c-btn-top {
   align-items: center;
-  bottom: 17.8rem;
+  bottom: 12.8rem;
   display: grid;
   justify-items: center;
   margin-left: auto;
@@ -1227,7 +1227,7 @@ select::-ms-expand {
   }
 
   .c-btn-top {
-    bottom: 14rem;
+    bottom: 12.5rem;
     max-width: 8.6rem;
     right: 0;
   }
